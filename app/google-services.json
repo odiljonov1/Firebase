@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48951464751",
+    "project_id": "codialandroid-feca5",
+    "storage_bucket": "codialandroid-feca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48951464751:android:8ae050416a61eb336107da",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthcodial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48951464751-cmv5fbbuilpdbrkomn6rh16rn557faje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDakN0rk_V4DizqixFxI2NlHik5S56s6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48951464751-cmv5fbbuilpdbrkomn6rh16rn557faje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
